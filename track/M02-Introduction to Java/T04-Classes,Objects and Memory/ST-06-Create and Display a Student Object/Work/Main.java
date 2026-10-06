@@ -31,5 +31,7 @@ public class Main {
         System.out.println("Name: " + std.name);
         System.out.println("Course: " + std.course);
         System.out.println("Java Score: " + std.javaScore);
+
+        sc.close();
     }
 }

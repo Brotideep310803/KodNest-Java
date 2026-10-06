@@ -37,6 +37,8 @@ public class Main {
     }else{
         System.out.println("Both students have the same Java score.");
     }
+
+    sc.close();
 }
 
 }
